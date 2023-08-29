@@ -30,8 +30,8 @@ def main():
 
        # Take input via API 
         rows = [
-            ["abc", "12312312"],
-            ["def", "1314221"]
+            ["test_user_1", "9930324340"],
+            ["test_user_2", "9903249012"]
         ]
 
         sheets.values().append(
